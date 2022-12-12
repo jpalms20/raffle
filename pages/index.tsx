@@ -37,7 +37,6 @@ const group2 = [
 	"Eddy Acevedo",
 	"William Nunez",
 	"Edgar Hernandez",
-	"Hal Stanley",
 	"Monica Brown",
 	"Ralph Montiel",
 	"Lourdes Alonso",
